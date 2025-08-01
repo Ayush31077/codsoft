@@ -1,0 +1,17 @@
+# Rule-Based Chatbot Requirements
+# This project uses only Python standard library modules
+# No external dependencies required!
+
+# Python version: 3.6 or higher recommended
+# Required modules (all built-in):
+# - re (regular expressions)
+# - random (random selection)
+# - json (JSON file handling)
+# - datetime (time and date operations)
+# - typing (type hints)
+# - os (operating system interface)
+# - sys (system-specific parameters)
+
+# Optional: For enhanced features, you could add:
+# colorama==0.4.6  # For colored terminal output
+# rich==13.7.0     # For rich terminal formatting 
